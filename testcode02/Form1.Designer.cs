@@ -14,7 +14,7 @@
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
-            {
+            {   // rồid để t clone về đã rồi ô commit sửa đổi
                 components.Dispose();
             }
             base.Dispose(disposing);
