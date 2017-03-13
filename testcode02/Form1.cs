@@ -16,6 +16,7 @@ namespace testcode02
         {
             InitializeComponent();
             // Tâm óc chó
+            // commit 3
         }
     }
 }
