@@ -24,8 +24,6 @@ namespace testcode02
         {
             //tâm ngu
 
-
-
         }
     }
 }
