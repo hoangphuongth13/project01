@@ -15,7 +15,9 @@ namespace testcode02
         public Form1()
         {
             InitializeComponent();
-           
+            // Tâm óc chó
+            // commit 3 
+            // commit
         }
 
         private void Form1_Load(object sender, EventArgs e)
