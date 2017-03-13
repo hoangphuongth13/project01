@@ -15,7 +15,7 @@ namespace testcode02
         public Form1()
         {
             InitializeComponent();
-            int a;
+           
         }
     }
 }
