@@ -19,5 +19,11 @@ namespace testcode02
             // commit 3 
             // commit
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            //tâm ngu
+
+        }
     }
 }
